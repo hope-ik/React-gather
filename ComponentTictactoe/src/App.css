@@ -1,0 +1,10 @@
+.Game{
+  text-align: center;
+}
+button{
+    width: 55px;
+    height: 55px;
+    background: whitesmoke;
+    border-right: none;
+    border-bottom: none;
+}
