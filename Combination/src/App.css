@@ -1,0 +1,24 @@
+.Element-blue{
+  border: 2px solid blue;
+  padding: 10px;
+}
+.l{
+  width: 100px;
+}
+.vessel-left{
+  width: 35%;
+  height: 100%;
+  background-color: burlywood;
+}
+.vessel-right{
+  width: 65%;
+  height: 100%;
+  background-color: cornsilk;
+}
+.vessel{
+  width: 1000px;
+  height: 750px;
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+}
